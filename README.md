@@ -22,7 +22,7 @@ PG・UT作業の成果物に関する詳細のチェックは、プログラマ�
 こちらから参照、ダウンロードしてください。
 
 - [PG・UT作業の完了条件チェックリスト.xlsx](./docs/PG・UT作業の完了条件チェックリスト.xlsx?raw=true)
-- [PG・UT作業の完了条件チェックリスト.pdf](./docs/PG・UT作業の完了条件チェックリスト.pdf?raw=true)
+
 ## ライセンス
 
 この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
